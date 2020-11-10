@@ -1,0 +1,26 @@
+body {
+  background-color:darkgrey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color:white;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h3{
+  color:white;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  margin-left: 20px; 
+}
